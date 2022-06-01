@@ -1,3 +1,5 @@
+#APPLICATION OF THREADS PROJECT
+
 One popular use for thread programming is animation. 
 
 A program that displays an animation shows different objects moving or changing in some way as time progresses. 
