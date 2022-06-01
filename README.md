@@ -1,4 +1,4 @@
-#APPLICATION OF THREADS PROJECT
+# APPLICATION OF THREADS PROJECT
 
 One popular use for thread programming is animation. 
 
